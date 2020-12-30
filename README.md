@@ -1,3 +1,3 @@
 ## Dotnet
 
-- Aula do Digital Innovation One
+- Revisão da aula do Digital Innovation One
